@@ -17,6 +17,7 @@ include(
     ":corellium:api",
     ":corellium:shard",
     ":corellium:adapter",
+    ":corellium:domain",
 )
 
 plugins {
